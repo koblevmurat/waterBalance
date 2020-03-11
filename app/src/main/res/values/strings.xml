@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Water balance</string>
+    <string name="edit_message">Enter the message</string>
+    <string name="SendMessageBtn">Send</string>
+</resources>
